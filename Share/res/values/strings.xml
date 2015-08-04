@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitterImagePost</string>
+    <string name="action_settings">Settings</string>
+    <!--  <string name="twitter_consumer_key">trWwomp0b09ER2A8H1cQg</string>
+    <string name="twitter_consumer_secret">PAC3E3CtcPcTuPl9VpCuzY6eDD8hPZPwp6gRDCviLs</string> -->
+    <string name="twitter_consumer_key">gNJuoUCtFAKi6bh8vhxis9z9L</string>
+    <string name="twitter_consumer_secret">2ZEg6rmDwm2ngUatphtshVK0Hf0pmbSAi6O5uiFaVrdgX1mXKQ</string>
+    <string name="post_image">Post Image</string>
+    <string name="post_tweet">Post Tweet</string>
+    <string name="authentication_done_now_post_tweet_or_image_text"> Your app is authenticated. Now  you can post tweet/image on twitter. </string>
+
+    <!-- loading messages -->
+    <string name="please_wait_title"> Please wait </string>
+    <string name="authenticating_your_app_message"> Authenticating your app... </string>
+    <string name="posting_image_message"> Uploading image on twitter... </string>
+    <string name="posting_tweet_message"> Posting tweet on twitter... </string>
+
+    <!-- toast -->
+
+    <string name="image_posted_on_twitter"> Image posted on twitter successfully. </string>
+    <string name="tweet_posted_on_twitter"> Tweet posted on twitter successfully. </string>
+    <string name="tweet_with_image_text"> dummy tweet with image. </string>
+    <string name="tweet_text"> dummy tweet. </string>
+    
+    <string name="app_id">149679585194982</string>
+
+</resources>

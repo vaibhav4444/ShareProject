@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/postImageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:layout_margin="10dp"
+        android:text="@string/post_image" />
+
+    <Button
+        android:id="@+id/postTweetButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_margin="10dp"
+        android:text="@string/post_tweet" />
+    <Button 
+        android:id="@+id/facebook"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:text="Facebook"/>
+     <Button 
+        android:id="@+id/instagram"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:text="Instagram"/>
+      <Button 
+        android:id="@+id/whatsapp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:text="whatsapp"/>
+
+</LinearLayout>
