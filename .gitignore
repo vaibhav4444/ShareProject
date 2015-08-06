@@ -1,0 +1,54 @@
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+.gradle/
+build/
+local.properties
+proguard/
+*.log
+
+# Eclipse 
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+.cproject
+.buildpath
+.target
+.texlipse
+
+# IntelliJ
+.idea/
+*.ipr
+*.iml
+*.iws
+out/
+.idea_modules/
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Build Related ignores
+configuration/cache.properties
+configuration/config.properties
+worklight.properties
+
+#skip eclipse files
+.settings/
